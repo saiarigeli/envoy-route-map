@@ -1,0 +1,14 @@
+resources:
+- "@type": type.googleapis.com/envoy.config.cluster.v3.Cluster
+  name: service_cluster_1
+  type: STATIC
+  connect_timeout: 0.25s
+  load_assignment:
+    cluster_name: service_cluster_1
+    endpoints:
+    - lb_endpoints:
+      - endpoint:
+          address:
+            socket_address:
+              address: 127.0.0.1
+              port_value: 8081
