@@ -20,7 +20,7 @@ A web-based visualization tool for Envoy Proxy configurations. Upload your Envoy
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/envoy-configv.git
+git clone https://github.com/saiarigeli/envoy-configv.git
 cd envoy-configv
 
 # Start the application
