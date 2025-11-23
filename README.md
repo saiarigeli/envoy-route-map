@@ -7,12 +7,12 @@ A web-based visualization tool for Envoy Proxy configurations. Upload your Envoy
 
 ## Features
 
-- 📊 **Interactive Graph Visualization** - See your Envoy configuration as a hierarchical flow diagram
-- 🔍 **Filter & Search** - Quickly find specific listeners, routes, clusters, and endpoints
-- 📁 **Multi-File Support** - Upload multiple configuration files simultaneously
-- 🐳 **Dockerized** - Run the entire stack with a single command
-- 🎨 **Modern UI** - Clean, dark-themed interface with real-time interaction
-- ⚡ **Fast** - Built with React 19, Vite, and FastAPI
+- **Interactive Graph Visualization** - See your Envoy configuration as a hierarchical flow diagram
+- **Filter & Search** - Quickly find specific listeners, routes, clusters, and endpoints
+- **Multi-File Support** - Upload multiple configuration files simultaneously
+- **Dockerized** - Run the entire stack with a single command
+- **Modern UI** - Clean, dark-themed interface with real-time interaction
+- **Fast** - Built with React 19, Vite, and FastAPI
 
 ## Quick Start
 
